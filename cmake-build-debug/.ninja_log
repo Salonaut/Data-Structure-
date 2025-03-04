@@ -1,0 +1,14 @@
+# ninja log v6
+16	352	7622888940621947	CMakeFiles/Data_Structes.dir/main.cpp.obj	8a33bce5f558ae2a
+31	475	7617620963577032	CMakeFiles/Data_Structes.dir/LinkedListLogic.cpp.obj	d2747d3c2b480aa0
+352	490	7622888943981242	Data_Structes.exe	60e8f95218020f4a
+27	383	7617651849691809	CMakeFiles/Data_Structes.dir/DoubleListLogic.cpp.obj	b123fe920329f390
+15	321	7616864392850326	CMakeFiles/Data_Structes.dir/QueueWithTwoStackLogic.cpp.obj	645aeea5b6e21115
+20	326	7622046889960027	CMakeFiles/Data_Structes.dir/DequeLogic.cpp.obj	16e76c912e287c6d
+30	364	7622888868347158	CMakeFiles/Data_Structes.dir/BinaryTreeLogic.cpp.obj	73baaa18f46d9a93
+11	412	7622907796499788	CMakeFiles/Data_Structes.dir/main.cpp.obj	8a33bce5f558ae2a
+16	345	7622908690108610	CMakeFiles/Data_Structes.dir/main.cpp.obj	8a33bce5f558ae2a
+55	389	7627790888204998	CMakeFiles/Data_Structes.dir/BinaryTreeLogic.cpp.obj	73baaa18f46d9a93
+40	390	7627790888053649	CMakeFiles/Data_Structes.dir/main.cpp.obj	8a33bce5f558ae2a
+13	317	7627791002138891	CMakeFiles/Data_Structes.dir/GeneralTreeLogic.cpp.obj	735f6a2f7d6fb01b
+318	535	7627791005191404	Data_Structes.exe	f6153fb059b28c92
